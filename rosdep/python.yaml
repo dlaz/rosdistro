@@ -107,6 +107,10 @@ ipython:
     vivid: [ipython]
     wily: [ipython]
     xenial: [ipython]
+    yakkety: [ipython]
+    zesty: [ipython]
+    artful: [ipython]
+    bionic: [ipython]
 libgv-python:
   debian: [libgv-python]
   ubuntu: [libgv-python]
